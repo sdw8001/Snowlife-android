@@ -1,2 +1,4 @@
 # Snowlife-android
-Snowlife android application
+
+Snowlife는 한글로 스노우 라이프 라고 읽습니다.
+스노우 라이프는 한국의 스키장 문화를 즐기고자 하는 목적으로 태어났습니다^^
